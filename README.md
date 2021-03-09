@@ -2,4 +2,4 @@
 
 Some shit in one.
 Code - coming soon.
-Version: 1.0.7 BETA!
+Version: 1.0.8 
