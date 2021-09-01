@@ -1,5 +1,4 @@
 # 31b4-The-app
 
 Some shit in one.
-Code - coming soon.
-Version: 1.0.8 
+Version: 1.1.4 
